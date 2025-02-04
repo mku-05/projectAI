@@ -1,0 +1,19 @@
+# Python virtual environment folder
+venv/
+
+# IDE files and folders
+.idea/
+.vscode/
+
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+"creditcard.csv"

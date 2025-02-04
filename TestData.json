@@ -1,0 +1,110 @@
+[
+  {
+    "features": [
+      50.00,         //Transaction Amount: $50.00
+      0,             // Merchant Category: Electronics
+      14.45,         // Transaction Time: 2:45 PM
+      1,             // Geographical Location: New York
+      5,             // Previous Transactions: 5 similar transactions
+      1,             // Device Info: Known device
+      192168101,     // IP Address: IP address of the device used
+      3              // User Age Group: 30-40 years
+    ]
+  },
+  {
+    "features": [
+      2500.00,       // Transaction Amount: $2500.00
+      1,             // Merchant Category: Groceries
+      3.00,          // Transaction Time: 3:00 AM (late-night transaction)
+      2,             // Geographical Location: California
+      10,            // Previous Transactions: 10 similar transactions
+      0,             // Device Info: New device
+      203168301,     // IP Address: New IP address detected
+      2              // User Age Group: 20-30 years
+    ]
+  },
+  {
+    "features": [
+      15.00,         // Transaction Amount: $15.00
+      3,             // Merchant Category: Clothing
+      9.15,          // Transaction Time: 9:15 AM
+      3,             // Geographical Location: Texas
+      20,            // Previous Transactions: 20 similar transactions
+      1,             // Device Info: Known device
+      191168102,     // IP Address: IP address of the device used
+      4              // User Age Group: 40-50 years
+    ]
+  },
+  {
+    "features": [
+      5000.00,       // Transaction Amount: $5000.00
+      2,             // Merchant Category: Travel (e.g., flight booking)
+      19.30,         // Transaction Time: 7:30 PM
+      1,             // Geographical Location: New York
+      2,             // Previous Transactions: 2 similar transactions
+      0,             // Device Info: New device (high risk)
+      204168402,     // IP Address: Suspicious IP address (overseas)
+      1              // User Age Group: 18-25 years
+    ]
+  },
+  {
+    "features": [
+      100.00,        // Transaction Amount: $100.00
+      4,             // Merchant Category: Restaurants
+      12.00,         // Transaction Time: 12:00 PM
+      3,             // Geographical Location: Texas
+      15,            // Previous Transactions: 15 similar transactions
+      1,             // Device Info: Known device
+      192168201,     // IP Address: IP address of the device used
+      5              // User Age Group: 50-60 years
+    ]
+  },
+  {
+    "features": [
+      300.00,        // Transaction Amount: $300.00
+      5,             // Merchant Category: Luxury Goods
+      16.45,         // Transaction Time: 4:45 PM
+      4,             // Geographical Location: Florida
+      1,             // Previous Transactions: 1 similar transaction (new user)
+      0,             // Device Info: New device (high risk)
+      204168301,     // IP Address: Suspicious IP address
+      2              // User Age Group: 20-30 years
+    ]
+  },
+  {
+    "features": [
+      1200.00,       // Transaction Amount: $1200.00
+      6,             // Merchant Category: Online Shopping
+      8.30,          // Transaction Time: 8:30 AM
+      1,             // Geographical Location: New York
+      30,            // Previous Transactions: 30 similar transactions
+      1,             // Device Info: Known device
+      192168105,     // IP Address: IP address of the device used
+      4              // User Age Group: 40-50 years
+    ]
+  },
+  {
+    "features": [
+      200.00,        // Transaction Amount: $200.00
+      3,             // Merchant Category: Clothing
+      20.00,         // Transaction Time: 8:00 PM
+      2,             // Geographical Location: California
+      5,             // Previous Transactions: 5 similar transactions
+      1,             // Device Info: Known device
+      198168100,     // IP Address: IP address of the device used
+      5              // User Age Group: 50-60 years
+    ]
+  },
+  {
+    "features": [
+      150.00,        // Transaction Amount: $150.00
+      1,             // Merchant Category: Groceries
+      10.15,         // Transaction Time: 10:15 AM
+      1,             // Geographical Location: New York
+      8,             // Previous Transactions: 8 similar transactions
+      1,             // Device Info: Known device
+      192168107,     // IP Address: IP address of the device used
+      3              // User Age Group: 30-40 years
+    ]
+  }
+]
